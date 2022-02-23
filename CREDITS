@@ -1,9 +1,14 @@
 /resources/icons/debian.svg
   Copyright (c) 1999 Software in the Public Interest, Inc.
+
   License: GNU Lesser General Public License, version 3 or any later version,
            or the Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
 /resources/icons/vim.svg
   Most of Vim was made by Bram Moolenaar, with a lot of help from others.
   See ":help credits" in Vim.
+
+  SVG rework from Wikimedia Commons
+  <https://commons.wikimedia.org/wiki/File:Vimlogo.svg>
+
   License: Vim License.
