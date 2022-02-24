@@ -21,3 +21,5 @@
 - Released Azratek Package Archive Utilities 0.1.
 #### February 20, 2022
 - Recreated the Azratek Package Archive Utilities repository due to a revision of the AzFOSS and AzDocu licenses.
+#### February 24, 2022
+- Released Azratek Package Archive Utilities 0.2
