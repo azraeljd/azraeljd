@@ -23,3 +23,7 @@
 - Recreated the Azratek Package Archive Utilities repository due to a revision of the AzFOSS and AzDocu licenses.
 #### February 24, 2022
 - Released Azratek Package Archive Utilities 0.2
+## Yggdrasil Linux/GNU/X
+### Yggdrasil Linux/GNU/X
+#### February 27, 2022
+- Created the Yggdrasil Linux/GNU/X repository in the `Yggdrasil-LGX` organization.
