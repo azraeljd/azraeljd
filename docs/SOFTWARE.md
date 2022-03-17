@@ -25,6 +25,9 @@
 ## Terminal
 ### Terminal Emulator
 - [Xfce Terminal](https://docs.xfce.org/apps/terminal/start)
+### Shell
+- [Bash](https://www.gnu.org/software/bash/)
+- [TCSH](https://github.com/tcsh-org/tcsh)
 ### Terminal Apps
 - [Ranger File Manager](https://github.com/ranger/ranger)
 - [Htop](https://github.com/htop-dev/htop)
