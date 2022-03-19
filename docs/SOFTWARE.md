@@ -46,4 +46,5 @@
 - GTK: [Yaru](https://github.com/ubuntu/yaru)
 - Tint2: Default theme
 - Vim: [Tender](https://github.com/jacoborus/tender.vim)
-- Xfce Terminal: Default theme
+- Xfce Terminal: [Tender](https://github.com/Mayccoll/Gogh/blob/master/themes/tender.sh),
+  configured using [Gogh](https://github.com/Mayccoll/Gogh)
