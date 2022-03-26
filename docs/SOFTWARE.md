@@ -1,11 +1,15 @@
 # Software I Use
+This list is a work-in-progress. Some icons might be very large and some might be very small.
 ## Operating System
 ### Linux
-- [Debian](https://debian.org/)
+![Debian](../resources/icons/debian.svg)
 - [Ubuntu](https://ubuntu.com/)
 ### BSD
 - [FreeBSD](https://freebsd.org/)
-- [NomadBSD](https://nomadbsd.org/)
+
+![NomadBSD](../../../../../nomadbsd/artwork/blob/main/logo/nomadbsd-logo-bright-128x128.png#gh-dark-mode-only)
+![NomadBSD](../../../../../nomadbsd/artwork/blob/main/logo/nomadbsd-logo-dark-128x128.png#gh-light-mode-only)
+
 ## Window Managers
 - [Openbox](https://wiki.archlinux.org/title/Openbox)
 - [Bspwm](https://github.com/baskerville/bspwm)
@@ -13,9 +17,13 @@
 - [Tint2](https://gitlab.com/o9000/tint2)
 ## Programming
 ### Text Editor
-- [Vim](https://vim.org/)
+
+![Vim](../resources/icons/vim.svg)
+
 ### IDE
-- [Geany](https://geany.org/)
+
+![Geany](../../../../../geany/www.geany.org/blob/master/geany/static/img/geany.svg)
+
 - [Arduino IDE](https://arduino.cc/)
 ### Compilers
 - [Clang](https://clang.llvm.org/)
@@ -29,8 +37,11 @@
 - [Bash](https://www.gnu.org/software/bash/)
 - [TCSH](https://github.com/tcsh-org/tcsh)
 ### Terminal Apps
-- [Ranger File Manager](https://github.com/ranger/ranger)
-- [Htop](https://github.com/htop-dev/htop)
+
+![Ranger File Manager](../../../../../ranger/ranger.github.io/blob/master/ranger_logo.png)
+
+![Htop](../../../../../htop-dev/htop/blob/main/htop.svg)
+
 - [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts)
 ## File Manager
 - [Thunar](https://docs.xfce.org/xfce/thunar/start)
